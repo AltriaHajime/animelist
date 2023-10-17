@@ -1,0 +1,152 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Anime List</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/owl.theme.default.css">
+<link rel="icon" href="../images/favicon.png" type="image/x-icon">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!--Header-->
+	
+<nav class="navbar navbar-expand-lg bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"><img src="../images/logo.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+		
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+		 
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../home.html">Home</a>
+        </li>
+		 
+        <li class="nav-item">
+          <a class="nav-link" href="../profile.html">Profile</a>
+        </li>
+		 
+		 <li class="nav-item">
+          <a class="nav-link" href="../animelist.html">Anime List</a>
+        </li>
+		  
+		 <li class="nav-item">
+          <a class="nav-link" href="#">Manga List</a>
+        </li>  
+		  
+		 <li class="nav-item">
+          <a class="nav-link" href="#">Light Novel</a>
+        </li> 
+		  
+		 <li class="nav-item">
+          <a class="nav-link" href="#">Forum</a>
+        </li> 
+		 
+		<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Reviews</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Staff</a></li>
+            <li><a class="dropdown-item" href="#">Characters</a></li>
+			<li><a class="dropdown-item" href="#">Recommendations</a></li>
+            <li><a class="dropdown-item" href="#">Suggestions</a></li>
+          </ul>
+        </li>  
+		  
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Browse</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">About us</a></li>
+            <li><a class="dropdown-item" href="#">Donate</a></li>
+			<li><a class="dropdown-item" href="#">Notifications</a></li>
+            <li><a class="dropdown-item" href="#">Settings</a></li>
+          </ul>
+        </li> 
+		  
+        <li class="nav-item">
+          <a class="nav-link" href="#">Explorer</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>	
+	
+<!--Main--><!-- TemplateBeginEditable name="Template 1" -->
+<main></main>
+<!-- TemplateEndEditable -->
+	
+<!--Footer-->	
+<footer class="bg-dark text-light">
+	<div class="container">
+		<div class="row">
+		<div class="col-lg-3 p-3">
+		<a href="#"><img src="../images/white-logo.png" alt=""></a>	
+		<p class="pt-3">It's time to watch anime</p>
+		<p> 010 020 0340</p>
+		<p> nhanvo2911@gmail.com</p>
+		</div>
+		
+		<div class="col-lg-2 p-2">	
+		<h5>Categories</h5>	
+		<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Profile</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Forum</a></li>
+		</ul>
+		</div>
+			
+		<div class="col-lg-2 p-2">	
+		<h5>List</h5>	
+		<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Anime</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Manga</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Light Novel</a></li>
+
+		</ul>
+		</div>
+			
+		<div class="col-lg-2 p-2">	
+		<h5>Reviews</h5>	
+		<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Staff</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Characters</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Recommendations</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Suggestions</a></li>
+		</ul>
+		</div>	
+		
+		<div class="col-lg-2 p-2">	
+		<h5>Social media</h5>	
+		<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Facebook</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Twitter</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Discord</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Github</a></li>
+		</ul>
+		</div>	
+			
+		</div>
+	</div>
+	</footer>	
+	
+	
+	
+	
+<script src="../js/jquery-3.6.0.min.js"></script>
+<script src="../js/owl.carousel.js"></script>	
+<script src="../js/carousel-control.js"></script>
+</body>
+</html>

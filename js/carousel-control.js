@@ -1,0 +1,108 @@
+// JavaScript Document
+$('#sp-anime').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+
+$('#sp-manga').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+
+$('#sp-lightnovel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+
+$('#anime-trend').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+
+$('#anime-alltime').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+
+$('#anime-movie').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+	autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
